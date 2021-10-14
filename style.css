@@ -1,0 +1,62 @@
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: rgba(99, 104, 103, 1);
+    margin-top: 20%;
+  
+  }
+  .fas {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: rgba(99, 104, 103, 1);
+    margin-top: 20%;
+  
+  
+  }
+  body {
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(99, 104, 103, 1);
+    font-family: "Playfair Display", serif;
+  }
+  h1 {
+    background-color: rgba(245, 242, 240, 1);
+    line-height: 1.2;
+    letter-spacing: 0.01em;
+    font-size: 44px;
+    text-align: center;
+    font-family: "Poynter Display Semibold";
+    font-weight: 400;
+    font-style: normal;
+    padding: 30px;
+    margin:0%;
+  }
+  h2 {
+    text-align: center;
+    font-size: 25px;
+  margin-top: 15%;
+  }
+  p {
+    font-size: 20px;
+    margin: 6%;
+  }
+  .programmeringskunskaper {
+    background-color:rgba(99,104,103,0.70);
+    color:rgba(245,242,240,1);
+    padding: 30px;
+  margin: -1%;
+  }
+  .socialMedia {
+  
+    margin-left: 2%;
+  }
+  
+  
+  
