@@ -6,7 +6,6 @@
     text-decoration: none;
     border-radius: 50%;
     color: rgba(99, 104, 103, 1);
-    padding-top: 20%;
   }
   .fas {
     padding: 20px;
@@ -16,7 +15,6 @@
     text-decoration: none;
     border-radius: 50%;
     color: rgba(99, 104, 103, 1);
-    padding-top: 20%;
   }
 
   body {
@@ -43,14 +41,12 @@
   }
   h5{
     font-size: 20px;
-    margin-top: 5%;
-  }
+border: 4px;  
+}
   p {
     font-size: 20px;
     margin: 6%;
   }
- 
-
   .backgroundRow
   {
     background-color:rgba(99,104,103,0.70);
